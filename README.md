@@ -1,3 +1,2 @@
 # MovieVerse
-https://github.com/aashiydv/MovieVerse.git
-
+ https://aashiydv.github.io/MovieVerse/
